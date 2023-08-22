@@ -1,0 +1,13 @@
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\Assignment 25.exe.config
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\Assignment 25.exe
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\Assignment 25.pdb
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\EntityFramework.dll
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\EntityFramework.xml
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.csproj.AssemblyReference.cache
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.csproj.SuggestedBindingRedirects.cache
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.csproj.CoreCompileInputs.cache
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.csproj.CopyComplete
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.exe
+C:\Users\HASSAN\source\repos\Assignment 25\Assignment 25\obj\Debug\Assignment 25.pdb
